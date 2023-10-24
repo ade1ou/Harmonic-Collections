@@ -1,0 +1,20 @@
+
+*{
+    margin: 60px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+p{
+    color: black;
+    font-size: 24px;
+    font-family: Baskervville;
+    font-weight: 400;
+}
+
+h1{
+    color: black;
+    font-size: 60px;
+    font-family: Libre Bodoni;
+    font-style: italic;
+    font-weight: 500;
+}
